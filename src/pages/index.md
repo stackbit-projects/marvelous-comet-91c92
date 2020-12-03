@@ -8,8 +8,8 @@ sections:
     content: >-
       # The raw you want the raw we find for you
 
-      Don't forget to add your Snipcart API key to the site's configuration to
-      enable Cart actions.
+      You buy your raw materials, put your labour into your product and put it
+      for sale.
     actions:
       - title: See all items
         url: /store
