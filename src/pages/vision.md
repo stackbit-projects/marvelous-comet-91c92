@@ -25,19 +25,6 @@ sections:
 
           Ratings and feedback reviews will be shown to the purchaser to get
           awareness about the shopper and their products.  
-
-
-          Adding to this, a buyer can make his preferred supplier's list for his
-          quick accessibility, the same way dealer can make the list of his
-          regular customer to provide special offers, discounts and updates. 
-
-
-          This is the modernising new concept for industries and develop new way
-          of buying and selling.
-
-
-          The easy availability of required material reduces the time phase of
-          product manufacture and boost the production. 
         image: images/green-mustard.jpg
     type: bulletpoints_section
   - section_id: lorem-ipsum
