@@ -3,7 +3,7 @@ title: lorem-ipsum
 page_css_class: gray-background
 white_header: false
 sections:
-  - section_id: lorem-ipsum
+  - section_id: Vision
     headline: Our Vision
     subtitle: >-
       We provide a web platform, where venders can sell the material and the
