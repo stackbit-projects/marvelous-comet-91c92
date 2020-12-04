@@ -1,6 +1,6 @@
 ---
 id: '1'
-price: '49.40'
+price: '27.98'
 title: Grip-Rite (25 lbs./Pack)
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
