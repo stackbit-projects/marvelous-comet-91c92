@@ -52,6 +52,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        image: images/knowledgeable-anemone.jpg
     type: bulletpoints_section
 template: advanced
 ---
