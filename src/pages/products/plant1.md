@@ -1,7 +1,9 @@
 ---
 id: '1'
 price: '49.40'
-title: Nulla suscipit
+title: >-
+  Grip-Rite#6 x 1-5/8 in. Philips Bugle-Head Coarse Thread Sharp Point Drywall
+  Screws (25 lbs./Pack)
 description: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
