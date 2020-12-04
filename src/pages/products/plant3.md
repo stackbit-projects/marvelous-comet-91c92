@@ -3,7 +3,7 @@ id: '3'
 price: '150.00'
 title: Curabitur eu tempor
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/grip-rite-drywall-screws-158cdw25bk-64_400.jpg
+default_thumbnail_image: images/grip-rite-wood-screws-3gcs10bk-64_400.jpg
 default_original_image: images/plant3-lg.jpg
 featured: true
 order: 3
