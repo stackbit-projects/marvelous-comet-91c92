@@ -12,7 +12,7 @@ sections:
     type: header_section
   - section_id: Vision
     bulletpoints:
-      - title: lorem-ipsum
+      - title: 'he easy availability '
         description: >-
           We provides opportunities to deal with latest technology and avoid
           their time of visiting and making the inquiry for the list of
