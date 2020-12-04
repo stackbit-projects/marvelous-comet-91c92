@@ -10,7 +10,7 @@ sections:
       retailers or bulk buyers can get the valuable things from which the final
       version of the product come out.
     type: header_section
-  - section_id: lorem-ipsum
+  - section_id: Vision
     bulletpoints: []
     type: bulletpoints_section
 template: advanced
