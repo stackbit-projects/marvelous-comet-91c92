@@ -1,7 +1,7 @@
 ---
 id: '3'
 price: '150.00'
-title: Curabitur eu tempor
+title: Grip-Rite (10 lbs./Box)
 description: 'Nulla non pretium metus, vitae finibus lectus.'
 default_thumbnail_image: images/grip-rite-wood-screws-3gcs10bk-64_400.jpg
 default_original_image: images/plant3-lg.jpg
