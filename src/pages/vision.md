@@ -31,14 +31,17 @@ sections:
     bulletpoints:
       - title: lorem-ipsum
         description: >-
-          ## Lorem ipsum
+          Adding to this, a buyer can make his preferred supplier's list for his
+          quick accessibility, the same way dealer can make the list of his
+          regular customer to provide special offers, discounts and updates. 
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-          - Lorem ipsum
+          This is the modernising new concept for industries and develop new way
+          of buying and selling.
 
-          - dolor sit amet
+
+          The easy availability of required material reduces the time phase of
+          product manufacture and boost the production. 
         image: images/knowledgeable-anemone.jpg
     type: bulletpoints_section
 template: advanced
