@@ -22,6 +22,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        image: images/green-mustard.jpg
     type: bulletpoints_section
 template: advanced
 ---
