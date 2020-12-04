@@ -4,7 +4,7 @@ page_css_class: gray-background
 white_header: false
 sections:
   - section_id: lorem-ipsum
-    headline: gray-background
+    headline: ''
     subtitle: >-
       ## Lorem ipsum
 
