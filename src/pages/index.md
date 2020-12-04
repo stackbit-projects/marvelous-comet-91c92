@@ -4,7 +4,7 @@ white_header: true
 sections:
   - type: hero_section
     section_id: hero_section
-    background_image: images/header.jpg
+    background_image: images/BG2.jpg
     content: >-
       # The raw you want the raw we find for you
 
