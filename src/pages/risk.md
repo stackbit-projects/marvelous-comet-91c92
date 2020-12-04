@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Risk
 page_css_class: gray-background
 white_header: false
 sections:
