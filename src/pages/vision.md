@@ -40,5 +40,8 @@ sections:
           product manufacture and boost the production. 
         image: images/green-mustard.jpg
     type: bulletpoints_section
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 template: advanced
 ---
