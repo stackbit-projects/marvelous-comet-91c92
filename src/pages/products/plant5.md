@@ -1,6 +1,6 @@
 ---
 id: '5'
-price: '220.00'
+price: '9.00'
 title: Drawer Pull
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
