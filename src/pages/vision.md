@@ -29,7 +29,7 @@ sections:
     type: bulletpoints_section
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: lorem-ipsum
+      - title: 'The easy availability '
         description: >-
           Adding to this, a buyer can make his preferred supplier's list for his
           quick accessibility, the same way dealer can make the list of his
