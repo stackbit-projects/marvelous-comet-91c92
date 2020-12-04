@@ -31,9 +31,9 @@ sections:
     bulletpoints:
       - title: 'The easy availability '
         description: >-
-          Adding to this, a buyer can make his preferred supplier's list for his
-          quick accessibility, the same way dealer can make the list of his
-          regular customer to provide special offers, discounts and updates. 
+          A buyer can make his preferred supplier's list for his quick
+          accessibility, the same way dealer can make the list of his regular
+          customer to provide special offers, discounts and updates. 
 
 
           This is the modernising new concept for industries and develop new way
