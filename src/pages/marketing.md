@@ -42,7 +42,7 @@ sections:
       url: /store
   - section_id: lorem-ipsum
     title: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     cta:
       title: lorem-ipsum
       url: lorem-ipsum
