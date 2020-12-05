@@ -17,13 +17,8 @@ sections:
            This can be reduce by providing 3 step verification  
 
            
-          *. Account creation with the help of approved documents or member ship
-          of dealerships or ownership   
 
-
-
-           
-          * Account creation with the help of approved documents or member ship
+          1  Account creation with the help of approved documents or member ship
           of dealerships or ownership  
 
 
