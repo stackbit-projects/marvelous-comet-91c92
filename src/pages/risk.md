@@ -67,5 +67,6 @@ sections:
       - dolor sit amet
     actions: []
     type: hero_section
+    background_image: images/JA2KMG.jpg
 template: advanced
 ---
