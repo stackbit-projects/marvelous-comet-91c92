@@ -15,7 +15,7 @@ sections:
            
 
            This can be reduce by providing 3 step verification  
-          
+
            
           *. Account creation with the help of approved documents or member ship
           of dealerships or ownership   
@@ -54,6 +54,16 @@ sections:
           The easy availability of required material reduces the time phase of
           product manufacture and boost the production. 
         image: images/knowledgeable-anemone.jpg
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
 template: advanced
 ---
