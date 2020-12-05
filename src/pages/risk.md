@@ -40,14 +40,14 @@ sections:
     bulletpoints:
       - title: Operational risk
         description: >-
-          ## Lorem ipsum
+          It may possible to not having enough resources with the good technical
+          skills, also due to that it may not possible to meet with the project
+          dead line.
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
-          - Lorem ipsum
-
-          - dolor sit amet
+          These can be reduce by gathering expert technical skilled persons as
+          an employee. By estimating the buffer time, the dead line delay issue
+          can be reduced. 
     type: bulletpoints_section
 template: advanced
 ---
