@@ -20,7 +20,7 @@ sections:
           chain of users and better network with stable relationship with the
           venture owner and users
         image: images/ads.png
-      - title: Digital Marketinglants
+      - title: Digital Marketing
         description: >-
           Now THAT is true, but we love web development even more. We talk about
           it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
