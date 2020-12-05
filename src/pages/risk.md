@@ -5,7 +5,7 @@ white_header: false
 sections:
   - section_id: Vision
     headline: Risk
-    subtitle: ' There are many huddles to reach high level secure paths.'
+    subtitle: ' There are many huddles to reach high secure paths.'
     type: header_section
   - section_id: Vision
     bulletpoints:
