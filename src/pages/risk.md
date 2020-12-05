@@ -36,7 +36,7 @@ sections:
           This can be reduce by taking advantage of government business loan. 
         image: images/Financial.jpg
     type: bulletpoints_section
-  - section_id: lorem-ipsum
+  - section_id: Operational risk
     bulletpoints: []
     type: bulletpoints_section
 template: advanced
