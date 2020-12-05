@@ -30,7 +30,7 @@ sections:
     type: bulletpoints_section
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: 'The easy availability '
+      - title: Financial risk
         description: >-
           A buyer can make his preferred supplier's list for his quick
           accessibility, the same way dealer can make the list of his regular
