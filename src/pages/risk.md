@@ -43,7 +43,7 @@ sections:
 
           The easy availability of required material reduces the time phase of
           product manufacture and boost the production. 
-        image: images/knowledgeable-anemone.jpg
+        image: images/Financial.jpg
     type: bulletpoints_section
 template: advanced
 ---
