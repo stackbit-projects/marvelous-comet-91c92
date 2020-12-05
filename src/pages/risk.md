@@ -16,19 +16,19 @@ sections:
            This can be reduce by providing 3 step verification  
            
            
-          1. Account creation with the help of approved documents or member ship
+          * Account creation with the help of approved documents or member ship
           of dealerships or ownership   
 
 
 
 
-          2. Verification links will be generated and send to mail id or
-          register number  
+          * Verification links will be generated and send to mail id or register
+          number  
 
 
 
 
-          3. There will be login facility but user can only login with the help
+          *  There will be login facility but user can only login with the help
           of one-time password only.
         image: images/Risk1.jpg
     type: bulletpoints_section
