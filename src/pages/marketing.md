@@ -6,7 +6,7 @@ sections:
   - type: header_section
     section_id: header_section
     background_image: images/cart.svg
-    headline: We are Planty
+    headline: Marketing
     subtitle: >
       Marketing is one of the most difficult things, because there are many
       others are already in market with same pick of thinking.
