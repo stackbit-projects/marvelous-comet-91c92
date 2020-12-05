@@ -10,18 +10,18 @@ sections:
   - section_id: Vision
     bulletpoints:
       - title: Security Risk
-        description: >-
-          We provides opportunities to deal with latest technology and avoid
-          their time of visiting and making the inquiry for the list of
-          materials. 
+        description: >2-
+           It may possible to hack the data and fraud in online payment. 
+           
+           This can be reduce by providing 3 step verification  
+          * Account creation with the help of approved documents or member ship
+          of dealerships or ownership   
 
+          * Verification links will be generated and send to mail id or register
+          number  
 
-          Online order and payments will helpful to maintain the purchase
-          history and make flexibility to repeat order.
-
-
-          Ratings and feedback reviews will be shown to the purchaser to get
-          awareness about the shopper and their products.  
+          * There will be login facility but user can only login with the help
+          of one-time password only.
         image: images/Risk1.jpg
     type: bulletpoints_section
   - section_id: lorem-ipsum
