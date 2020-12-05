@@ -32,17 +32,8 @@ sections:
     bulletpoints:
       - title: Financial risk
         description: >-
-          A buyer can make his preferred supplier's list for his quick
-          accessibility, the same way dealer can make the list of his regular
-          customer to provide special offers, discounts and updates. 
-
-
-          This is the modernising new concept for industries and develop new way
-          of buying and selling.
-
-
-          The easy availability of required material reduces the time phase of
-          product manufacture and boost the production. 
+          It may possible to get sufficient investors to get complete finance.
+          This can be reduce by taking advantage of government business loan. 
         image: images/Financial.jpg
     type: bulletpoints_section
 template: advanced
