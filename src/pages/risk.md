@@ -14,7 +14,7 @@ sections:
            It may possible to hack the data and fraud in online payment. 
            
            This can be reduce by providing 3 step verification  
-           
+           <ul><li>test</li></ul>
            
           1. Account creation with the help of approved documents or member ship
           of dealerships or ownership   
