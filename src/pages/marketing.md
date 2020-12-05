@@ -30,7 +30,7 @@ sections:
           $80 per month with least amount. Together digital marketing budget for
           one year is around $1200 
         image: images/nan_talk.jpg
-      - title: lorem-ipsum
+      - title: Print Media
         description: >-
           ## Lorem ipsum
 
