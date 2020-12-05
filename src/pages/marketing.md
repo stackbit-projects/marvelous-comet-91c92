@@ -44,5 +44,14 @@ sections:
     cta:
       title: Discover
       url: /store
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: lorem-ipsum
+      arrow: false
+      type: action
+    type: promotion_section
 template: advanced
 ---
