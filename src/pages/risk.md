@@ -56,5 +56,14 @@ sections:
           product manufacture and boost the production. 
         image: images/knowledgeable-anemone.jpg
     type: bulletpoints_section
+  - section_id: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    cta:
+      title: lorem-ipsum
+      url: lorem-ipsum
+      arrow: false
+      type: action
+    type: promotion_section
 template: advanced
 ---
