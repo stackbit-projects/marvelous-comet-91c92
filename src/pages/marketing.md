@@ -19,7 +19,7 @@ sections:
           for customers as well as adding new users with the old user will make
           chain of users and better network with stable relationship with the
           venture owner and users
-        image: images/20191112054904-FotoJet32.jpeg
+        image: images/ads.png
       - title: We love plants
         description: >-
           Now THAT is true, but we love web development even more. We talk about
