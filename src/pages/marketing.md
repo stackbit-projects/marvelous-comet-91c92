@@ -22,14 +22,13 @@ sections:
         image: images/ads.png
       - title: Digital Marketing
         description: >-
-          Now THAT is true, but we love web development even more. We talk about
-          it on our blog, like, [a lot](http://bit.ly/2YA6999). We often craft
-          live demos and open source these bad boys [on
-          GitHub](https://github.com/snipcart). Matter of fact, this Planty
-          theme [is open source
-          too](https://github.com/snipcart/stackbit-theme-planty)! If you spot
-          any bugs, open an issue, and we’ll fire our junior dev. Just kidding
-          Michael, you’re good.
+          A Facebook Ad can cost 76 rupees which is approximately $ 1.5 per day
+          to advertise in India. YouTube will cost at least $10 per day for
+          local campaigns. So, if we post 2 Ads per week in Facebook it might
+          cost us approximately $9 for a month of Facebook advertising. Also
+          assume we posted a video on YouTube only on weekends. It would cost us
+          $80 per month with least amount. Together digital marketing budget for
+          one year is around $1200 
         image: images/nan_talk.jpg
   - type: promotion_section
     section_id: promotion_section
