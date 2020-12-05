@@ -22,7 +22,7 @@ sections:
 
           Ratings and feedback reviews will be shown to the purchaser to get
           awareness about the shopper and their products.  
-        image: images/green-mustard.jpg
+        image: images/Risk1.jpg
     type: bulletpoints_section
   - section_id: lorem-ipsum
     bulletpoints:
