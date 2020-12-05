@@ -30,7 +30,7 @@ sections:
     type: bulletpoints_section
   - section_id: Financial Risk
     bulletpoints:
-      - title: Financial risk
+      - title: Financial Risk
         description: >-
           It may possible to get sufficient investors to get complete finance.
           This can be reduce by taking advantage of government business loan. 
