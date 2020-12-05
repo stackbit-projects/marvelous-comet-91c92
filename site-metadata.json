@@ -65,7 +65,7 @@
         },
         {
             "title": "Finance",
-            "url": "lorem-ipsum",
+            "url": "/finance",
             "arrow": false,
             "type": "action"
         }
