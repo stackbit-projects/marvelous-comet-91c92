@@ -38,7 +38,7 @@ sections:
     type: bulletpoints_section
   - section_id: Operational risk
     bulletpoints:
-      - title: lorem-ipsum
+      - title: Operational risk
         description: >-
           ## Lorem ipsum
 
