@@ -3,7 +3,7 @@ title: Risk
 page_css_class: gray-background
 white_header: false
 sections:
-  - section_id: Vision
+  - section_id: Risk
     headline: Risk
     subtitle: ' There are many huddles to reach high secure paths.'
     type: header_section
