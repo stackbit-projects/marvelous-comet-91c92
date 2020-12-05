@@ -7,7 +7,7 @@ sections:
     headline: Risk
     subtitle: ' There are many huddles to reach high secure paths.'
     type: header_section
-  - section_id: Vision
+  - section_id: SecurityRisk
     bulletpoints:
       - title: Security Risk
         description: >2-
