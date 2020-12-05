@@ -59,7 +59,7 @@
         },
         {
             "title": "Marketing",
-            "url": "lorem-ipsum",
+            "url": "/marketing",
             "arrow": false,
             "type": "action"
         },
