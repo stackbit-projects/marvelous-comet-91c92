@@ -13,7 +13,7 @@ sections:
   - type: bulletpoints_section
     section_id: bulletpoints_section
     bulletpoints:
-      - title: We think plants are the future
+      - title: attractive offers
         description: >-
           Online ads and attractive offers for new users will make bright light
           for customers as well as adding new users with the old user will make
