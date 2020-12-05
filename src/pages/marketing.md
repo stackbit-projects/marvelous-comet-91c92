@@ -29,7 +29,8 @@ sections:
           assume we posted a video on YouTube only on weekends. It would cost us
           $80 per month with least amount. Together digital marketing budget for
           one year is around $1200 
-        image: images/nan_talk.jpg
+        image: >-
+          images/Accessibility-Is-the-Missing-Link-in-Your-Digital-Marketing-Strategy1.jpg
       - title: Print Media
         description: >-
           ## Lorem ipsum
