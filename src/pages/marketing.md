@@ -15,11 +15,10 @@ sections:
     bulletpoints:
       - title: We think plants are the future
         description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+          Online ads and attractive offers for new users will make bright light
+          for customers as well as adding new users with the old user will make
+          chain of users and better network with stable relationship with the
+          venture owner and users
         image: images/20191112054904-FotoJet32.jpeg
       - title: We love plants
         description: >-
