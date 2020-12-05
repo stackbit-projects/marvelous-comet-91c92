@@ -5,7 +5,7 @@ white_header: false
 sections:
   - type: header_section
     section_id: header_section
-    background_image: images/free-marketing-tool-header.png
+    background_image: images/cart.svg
     headline: We are Planty
     subtitle: >-
       Well, not really. We’re [Snipcart](http://bit.ly/2YB7AUL)—a bunch of geeks
