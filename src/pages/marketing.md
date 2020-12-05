@@ -20,7 +20,7 @@ sections:
           through free content and tools, like this theme. We also believe [the
           JAMstack](https://jamstack.org/) might be one solid pillar on which we
           build that future.
-        image: images/team.jpg
+        image: images/20191112054904-FotoJet32.jpeg
       - title: We love plants
         description: >-
           Now THAT is true, but we love web development even more. We talk about
