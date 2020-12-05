@@ -40,15 +40,5 @@ sections:
     cta:
       title: Discover
       url: /store
-  - section_id: ''
-    title: ''
-    subtitle: ''
-    cta:
-      title: lorem-ipsum
-      url: lorem-ipsum
-      arrow: false
-      type: action
-    type: promotion_section
-    image: images/neat-yam.jpg
 template: advanced
 ---
