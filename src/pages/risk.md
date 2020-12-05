@@ -11,16 +11,17 @@ sections:
     bulletpoints:
       - title: Security Risk
         description: >2-
-           It may possible to hack the data and fraud in online payment. 
+           It may possible to hack the data and fraud in online payment.  This can be reduce by providing 3 step verification  
            
-           This can be reduce by providing 3 step verification  
            
           * Account creation with the help of approved documents or member ship
           of dealerships or ownership  
 
 
+
           * Verification links will be generated and send to mail id or register
           number  
+
 
 
           *  There will be login facility but user can only login with the help
