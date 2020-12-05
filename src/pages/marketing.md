@@ -41,12 +41,5 @@ sections:
 
           - dolor sit amet
         image: images/ad2.jpg
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    cta:
-      title: Discover
-      url: /store
 template: advanced
 ---
