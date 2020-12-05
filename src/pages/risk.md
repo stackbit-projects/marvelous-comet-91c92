@@ -48,7 +48,7 @@ sections:
           These can be reduce by gathering expert technical skilled persons as
           an employee. By estimating the buffer time, the dead line delay issue
           can be reduced. 
-        image: images/financial-risk.jpg
+        image: images/oprational.png
     type: bulletpoints_section
 template: advanced
 ---
