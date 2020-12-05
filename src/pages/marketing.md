@@ -49,5 +49,6 @@ sections:
       arrow: false
       type: action
     type: promotion_section
+    image: images/neat-yam.jpg
 template: advanced
 ---
