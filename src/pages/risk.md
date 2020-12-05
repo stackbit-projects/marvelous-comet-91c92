@@ -5,10 +5,7 @@ white_header: false
 sections:
   - section_id: Vision
     headline: Risk
-    subtitle: >-
-      We provide a web platform, where venders can sell the material and the
-      retailers or bulk buyers can get the valuable things from which the final
-      version of the product come out.
+    subtitle: ' There are many huddles to reach high level secure paths.'
     type: header_section
   - section_id: Vision
     bulletpoints:
