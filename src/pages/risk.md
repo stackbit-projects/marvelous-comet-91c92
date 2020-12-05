@@ -64,5 +64,6 @@ sections:
       arrow: false
       type: action
     type: promotion_section
+    image: images/majestic-daffodil.jpg
 template: advanced
 ---
