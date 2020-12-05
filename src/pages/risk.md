@@ -28,7 +28,7 @@ sections:
           of one-time password only.
         image: images/Risk1.jpg
     type: bulletpoints_section
-  - section_id: lorem-ipsum
+  - section_id: 'Financial '
     bulletpoints:
       - title: Financial risk
         description: >-
