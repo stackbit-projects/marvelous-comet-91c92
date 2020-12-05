@@ -36,5 +36,8 @@ sections:
           This can be reduce by taking advantage of government business loan. 
         image: images/Financial.jpg
     type: bulletpoints_section
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 template: advanced
 ---
