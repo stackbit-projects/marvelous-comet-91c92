@@ -40,7 +40,7 @@ sections:
     cta:
       title: Discover
       url: /store
-  - section_id: lorem-ipsum
+  - section_id: ''
     title: lorem-ipsum
     subtitle: ''
     cta:
