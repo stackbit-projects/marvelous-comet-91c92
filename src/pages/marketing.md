@@ -40,6 +40,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        image: images/ad2.jpg
   - type: promotion_section
     section_id: promotion_section
     title: A new home interior for summer
