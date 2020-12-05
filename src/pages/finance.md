@@ -25,14 +25,6 @@ sections:
           any bugs, open an issue, and we’ll fire our junior dev. Just kidding
           Michael, you’re good.
         image: images/nan_talk.jpg
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    cta:
-      title: Discover
-      url: /store
   - section_id: lorem-ipsum
     headline: lorem-ipsum
     subtitle: >-
@@ -45,5 +37,13 @@ sections:
 
       - dolor sit amet
     type: header_section
+  - type: promotion_section
+    section_id: promotion_section
+    title: A new home interior for summer
+    subtitle: from $149.99
+    image: images/promo.jpg
+    cta:
+      title: Discover
+      url: /store
 template: advanced
 ---
