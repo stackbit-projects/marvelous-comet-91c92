@@ -9,7 +9,7 @@ sections:
     type: header_section
   - section_id: Vision
     bulletpoints:
-      - title: Security risk
+      - title: Security Risk
         description: >-
           We provides opportunities to deal with latest technology and avoid
           their time of visiting and making the inquiry for the list of
