@@ -43,7 +43,7 @@ sections:
 
           - dolor sit amet
         image: images/ad2.jpg
-  - section_id: lorem-ipsum
+  - section_id: Print Media
     bulletpoints: []
     type: bulletpoints_section
 template: advanced
