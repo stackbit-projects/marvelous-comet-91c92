@@ -11,7 +11,7 @@ sections:
       Marketing is one of the most difficult things, because there are many
       others are already in market with same pick of thinking.
   - type: bulletpoints_section
-    section_id: bulletpoints_section
+    section_id: Attractive_Digital
     bulletpoints:
       - title: Attractive offers
         description: >-
@@ -32,31 +32,17 @@ sections:
           remarkable edge of print in mind to showcase the whole product as well
           all features
         image: images/wonderful-goat.jpeg
+  - section_id: Print Media
+    bulletpoints: []
+    type: bulletpoints_section
+  - section_id: lorem-ipsum
+    bulletpoints:
       - title: Print Media
         description: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        image: images/ad2.jpg
-  - section_id: Print Media
-    bulletpoints:
-      - title: lorem-ipsum
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Print media having totally different age groups of reader where there
+          may not be reached to teenagers and youngster hence prints media
+          directly target the age group.
+        image: images/rainy-zebra.jpg
     type: bulletpoints_section
 template: advanced
 ---
