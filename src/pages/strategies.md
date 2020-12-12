@@ -17,13 +17,5 @@ sections:
           relationship with customers and its needed to keep eyes on new leads
           for the scope in addition to that chain formation to add new customers
         image: images/business-strategy.jpg
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    cta:
-      title: Discover
-      url: /store
 template: advanced
 ---
