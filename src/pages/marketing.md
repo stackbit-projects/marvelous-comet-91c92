@@ -37,7 +37,7 @@ sections:
     type: bulletpoints_section
   - section_id: lorem-ipsum
     bulletpoints:
-      - title: lorem-ipsum
+      - title: Print Media
         description: >-
           ## Lorem ipsum
 
