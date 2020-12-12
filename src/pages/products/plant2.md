@@ -1,7 +1,7 @@
 ---
 id: '2'
 price: '99.00'
-title: Integer porta
+title: AutoHingies
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/61pkFP4HSbL._SL1100_.jpg
 default_original_image: images/plant2-lg.jpg
