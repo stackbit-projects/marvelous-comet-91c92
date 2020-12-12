@@ -16,6 +16,6 @@ sections:
           For the growth and stable business, it’s necessary to maintain
           relationship with customers and its needed to keep eyes on new leads
           for the scope in addition to that chain formation to add new customers
-        image: images/business-strategy.jpg
+        image: images/covid-19-business-strategy.jpg
 template: advanced
 ---
