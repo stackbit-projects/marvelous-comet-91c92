@@ -8,8 +8,8 @@ sections:
     content: >-
       # The raw you want the raw we find for you
 
-      You buy your raw materials, put your labour into your product and put it
-      for sale.
+      ###### You buy your raw materials, put your labour into your product and
+      put it for sale.
     actions: []
   - type: featured_products_section
     section_id: best_sellers_section
