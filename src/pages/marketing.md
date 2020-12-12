@@ -35,5 +35,8 @@ sections:
   - section_id: Print Media
     bulletpoints: []
     type: bulletpoints_section
+  - section_id: lorem-ipsum
+    bulletpoints: []
+    type: bulletpoints_section
 template: advanced
 ---
