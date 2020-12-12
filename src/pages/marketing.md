@@ -49,6 +49,7 @@ sections:
           - Lorem ipsum
 
           - dolor sit amet
+        image: images/rainy-zebra.jpg
     type: bulletpoints_section
 template: advanced
 ---
