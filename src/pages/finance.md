@@ -12,12 +12,9 @@ sections:
     section_id: bulletpoints_section
     bulletpoints:
       - title: ''
-        description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+        description: |-
+          There are many start up program provided by Government.
+          Also Banks provides loan for the business.
         image: images/Finance-for-Starting-a-Business.jpeg
       - title: We love plants
         description: >-
