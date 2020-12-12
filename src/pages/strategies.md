@@ -16,7 +16,7 @@ sections:
           For the growth and stable business, it’s necessary to maintain
           relationship with customers and its needed to keep eyes on new leads
           for the scope in addition to that chain formation to add new customers
-        image: images/team.jpg
+        image: images/business-strategy.jpg
       - title: We love plants
         description: >-
           Now THAT is true, but we love web development even more. We talk about
