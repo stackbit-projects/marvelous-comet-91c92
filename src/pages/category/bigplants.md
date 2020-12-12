@@ -1,5 +1,5 @@
 ---
-title: '#9 X.1.5 IN'
+title: ''
 order: 1
 section: Store
 template: category
