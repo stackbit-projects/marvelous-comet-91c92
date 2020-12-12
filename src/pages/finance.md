@@ -13,15 +13,13 @@ sections:
     bulletpoints:
       - title: ''
         description: >-
-          There are many start up program provided by Government.
-
-          Also Banks provides loan for the business.
-
+          * There are many start up program provided by Government.
+           Also Banks provides loan for the business.
 
 
-          For the scale of business, its most important to give a bright vision
-          to project. hence mainly networking companies will be targeted to take
-          park and to became factor of the vison of project. therefore,
+          * For the scale of business, its most important to give a bright
+          vision to project. hence mainly networking companies will be targeted
+          to take park and to became factor of the vison of project. therefore,
           investment should be gained from small networking companies
         image: images/Finance-for-Starting-a-Business.jpeg
 template: advanced
