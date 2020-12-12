@@ -39,16 +39,9 @@ sections:
     bulletpoints:
       - title: Print Media
         description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+          Print media having totally different age groups of reader where there
+          may not be reached to teenagers and youngster hence prints media
+          directly target the age group.
         image: images/rainy-zebra.jpg
     type: bulletpoints_section
 template: advanced
