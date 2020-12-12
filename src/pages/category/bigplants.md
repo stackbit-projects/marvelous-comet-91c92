@@ -1,5 +1,5 @@
 ---
-title: Circular Back Plates
+title: ''
 order: 1
 section: Store
 template: category

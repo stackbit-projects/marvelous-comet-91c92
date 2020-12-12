@@ -1,9 +1,9 @@
 ---
 id: '7'
 price: '18.90'
-title: Sed consectetur
+title: Golden Hole Draft
 description: Fusce sed tortor id diam rhoncus accumsan.
-default_thumbnail_image: images/plant7.jpg
+default_thumbnail_image: images/download (1).jpg
 default_original_image: images/plant7-lg.jpg
 order: 7
 category: src/pages/category/bigplants.md
