@@ -1,5 +1,5 @@
 ---
-title: '#9 x 3 in.'
+title: ''
 order: 2
 section: Store
 template: category
