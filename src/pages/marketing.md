@@ -22,13 +22,11 @@ sections:
         image: images/ads.png
       - title: Digital Marketing
         description: >-
-          A Facebook Ad can cost 76 rupees which is approximately $ 1.5 per day
-          to advertise in India. YouTube will cost at least $10 per day for
-          local campaigns. So, if we post 2 Ads per week in Facebook it might
-          cost us approximately $9 for a month of Facebook advertising. Also
-          assume we posted a video on YouTube only on weekends. It would cost us
-          $80 per month with least amount. Together digital marketing budget for
-          one year is around $1200 
+          Digital marketing is called new era of marketing because of new
+          generation moved towards new innovation which totally depend on
+          internet. however, television adds is now become outdated. One of the
+          best examples for this is YouTube adds which makes a remarkable edge
+          of print in mind to showcase the whole product as well all features
         image: images/wonderful-goat.jpeg
       - title: Print Media
         description: >-
