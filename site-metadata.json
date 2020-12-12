@@ -29,7 +29,7 @@
     "main_menu": [
         {
             "title": "Home",
-            "url": "/store"
+            "url": "/index"
         },
         {
             "title": "About",
