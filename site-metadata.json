@@ -36,10 +36,6 @@
             "url": "/about"
         },
         {
-            "title": "FAQ",
-            "url": "/faq"
-        },
-        {
             "title": "Vision",
             "url": "/vision",
             "arrow": false,
