@@ -32,17 +32,6 @@ sections:
           remarkable edge of print in mind to showcase the whole product as well
           all features
         image: images/wonderful-goat.jpeg
-      - title: Print Media
-        description: >-
-          ## Lorem ipsum
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
-        image: images/ad2.jpg
   - section_id: Print Media
     bulletpoints:
       - title: lorem-ipsum
