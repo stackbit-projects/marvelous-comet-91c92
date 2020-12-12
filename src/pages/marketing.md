@@ -44,7 +44,19 @@ sections:
           - dolor sit amet
         image: images/ad2.jpg
   - section_id: Print Media
-    bulletpoints: []
+    bulletpoints:
+      - title: lorem-ipsum
+        description: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
     type: bulletpoints_section
 template: advanced
 ---
