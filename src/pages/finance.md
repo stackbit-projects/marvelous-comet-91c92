@@ -16,13 +16,5 @@ sections:
           There are many start up program provided by Government.
           Also Banks provides loan for the business.
         image: images/Finance-for-Starting-a-Business.jpeg
-  - type: promotion_section
-    section_id: promotion_section
-    title: A new home interior for summer
-    subtitle: from $149.99
-    image: images/promo.jpg
-    cta:
-      title: Discover
-      url: /store
 template: advanced
 ---
