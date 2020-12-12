@@ -11,7 +11,7 @@ sections:
       Marketing is one of the most difficult things, because there are many
       others are already in market with same pick of thinking.
   - type: bulletpoints_section
-    section_id: bulletpoints_section
+    section_id: Attractive_Digital
     bulletpoints:
       - title: Attractive offers
         description: >-
