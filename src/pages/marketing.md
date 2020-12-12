@@ -33,19 +33,7 @@ sections:
           all features
         image: images/wonderful-goat.jpeg
   - section_id: Print Media
-    bulletpoints:
-      - title: lorem-ipsum
-        description: >-
-          ## Lorem ipsum
-
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-
-          - Lorem ipsum
-
-          - dolor sit amet
+    bulletpoints: []
     type: bulletpoints_section
 template: advanced
 ---
