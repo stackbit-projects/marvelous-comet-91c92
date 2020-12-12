@@ -13,11 +13,9 @@ sections:
     bulletpoints:
       - title: ''
         description: >-
-          Word. But good **code** _can_ solve a lots of problems, too. New _and_
-          old. That’s why we help beginners get started with web development
-          through free content and tools, like this theme. We also believe [the
-          JAMstack](https://jamstack.org/) might be one solid pillar on which we
-          build that future.
+          For the growth and stable business, it’s necessary to maintain
+          relationship with customers and its needed to keep eyes on new leads
+          for the scope in addition to that chain formation to add new customers
         image: images/team.jpg
       - title: We love plants
         description: >-
