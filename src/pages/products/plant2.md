@@ -1,6 +1,6 @@
 ---
 id: '2'
-price: '19.00'
+price: '10.00'
 title: AutoHingies
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/61pkFP4HSbL._SL1100_.jpg
