@@ -1,6 +1,6 @@
 ---
 id: '9'
-price: '400.00'
+price: '349'
 title: Timing Chain
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/timing chain.jpg
