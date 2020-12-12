@@ -32,10 +32,6 @@
             "url": "/"
         },
         {
-            "title": "About",
-            "url": "/about"
-        },
-        {
             "title": "Vision",
             "url": "/vision",
             "arrow": false,
