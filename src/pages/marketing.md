@@ -24,9 +24,13 @@ sections:
         description: >-
           Digital marketing is called new era of marketing because of new
           generation moved towards new innovation which totally depend on
-          internet. however, television adds is now become outdated. One of the
-          best examples for this is YouTube adds which makes a remarkable edge
-          of print in mind to showcase the whole product as well all features
+          internet. however, television adds is now become outdated. 
+
+
+
+          One of the best examples for this is YouTube adds which makes a
+          remarkable edge of print in mind to showcase the whole product as well
+          all features
         image: images/wonderful-goat.jpeg
       - title: Print Media
         description: >-
