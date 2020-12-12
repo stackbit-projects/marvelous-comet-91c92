@@ -1,9 +1,9 @@
 ---
 id: '2'
-price: '99.00'
-title: Integer porta
+price: '10.00'
+title: AutoHingies
 description: Suspendisse efficitur eget erat sit amet efficitur.
-default_thumbnail_image: images/plant2.jpg
+default_thumbnail_image: images/61pkFP4HSbL._SL1100_.jpg
 default_original_image: images/plant2-lg.jpg
 order: 2
 category: src/pages/category/cactuses.md
