@@ -4,7 +4,7 @@ price: '18.90'
 title: Golden Hole Draft
 description: Fusce sed tortor id diam rhoncus accumsan.
 default_thumbnail_image: images/download (1).jpg
-default_original_image: images/plant7-lg.jpg
+default_original_image: images/download (1).jpg
 order: 7
 category: src/pages/category/bigplants.md
 section: Store
