@@ -2,7 +2,11 @@
 id: '4'
 price: '24.99'
 title: Piston
-description: Maecenas pretium blandit ex id lobortis.
+description: >-
+  A piston is a component of reciprocating engines, reciprocating pumps, gas
+  compressors, hydraulic cylinders and pneumatic cylinders, among other similar
+  mechanisms. It is the moving component that is contained by a cylinder and is
+  made gas-tight by piston rings.
 default_thumbnail_image: images/v6enginepistons3dimage.j_215142.jpg
 default_original_image: images/majestic-zebra.jpg
 order: 4
