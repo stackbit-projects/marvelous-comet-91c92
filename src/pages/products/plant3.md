@@ -2,7 +2,11 @@
 id: '3'
 price: '29.97'
 title: Grip-Rite (10 lbs./Box)
-description: 'Nulla non pretium metus, vitae finibus lectus.'
+description: >-
+  For exterior applications, including decks, siding, gazebos, and playsets.
+  Countersinking bugle head prevents heads from popping out, leaves smooth
+  finish. Type 17 point reduces need to pre-drill boards. Available in
+  combination drive or star drive.
 default_thumbnail_image: images/grip-rite-wood-screws-3gcs10bk-64_400.jpg
 default_original_image: images/grip-rite-wood-screws-3gcs10bk-64_400.jpg
 featured: true
