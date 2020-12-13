@@ -7,7 +7,6 @@ description: >-
   color. It measures 50 mm in length, 100 mm in width and 100 mm in height.
   Furthermore, it is recommended to be kept away from extreme heat, fire and
   corrosive liquids to avoid any form of damage.
-default_thumbnail_image: images/download (1).jpg
 default_original_image: images/remarkable-daffodil.jpg
 order: 7
 category: src/pages/category/bigplants.md
