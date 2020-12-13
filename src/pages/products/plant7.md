@@ -8,7 +8,7 @@ description: >-
   Furthermore, it is recommended to be kept away from extreme heat, fire and
   corrosive liquids to avoid any form of damage.
 default_thumbnail_image: images/download (1).jpg
-default_original_image: images/download.jpg
+default_original_image: images/fierce-zebra.jpg
 order: 7
 category: src/pages/category/bigplants.md
 section: Store
