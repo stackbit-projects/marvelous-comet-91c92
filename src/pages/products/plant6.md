@@ -4,7 +4,7 @@ price: '699.00'
 title: Crenk Shaft
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/main-qimg-5f969fb0985ce6c57847914dc37e6ca0.jpg
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/main-qimg-5f969fb0985ce6c57847914dc37e6ca0.jpg
 order: 6
 category: src/pages/category/bigplants.md
 section: Store
