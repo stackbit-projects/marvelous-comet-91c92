@@ -4,7 +4,7 @@ price: '349.99'
 title: Timing Chain
 description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
 default_thumbnail_image: images/timing chain.jpg
-default_original_image: images/plant9-lg.jpg
+default_original_image: images/mighty-spider.jpg
 featured: true
 order: 9
 category: src/pages/category/cactuses.md
