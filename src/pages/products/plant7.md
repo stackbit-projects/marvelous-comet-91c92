@@ -2,7 +2,11 @@
 id: '7'
 price: '18.90'
 title: Golden Hole Draft
-description: Fusce sed tortor id diam rhoncus accumsan.
+description: >-
+  This product is made from white metal and is finished in an attractive golden
+  color. It measures 50 mm in length, 100 mm in width and 100 mm in height.
+  Furthermore, it is recommended to be kept away from extreme heat, fire and
+  corrosive liquids to avoid any form of damage.
 default_thumbnail_image: images/download (1).jpg
 default_original_image: images/download (1).jpg
 order: 7
