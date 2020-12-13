@@ -1,7 +1,7 @@
 ---
 id: ''
 price: '50.00'
-title: Fusce sed
+title: ''
 description: In cursus sagittis eros non congue.
 default_original_image: images/plant8-lg.jpg
 order: 8
