@@ -7,6 +7,7 @@ default_original_image: images/plant8-lg.jpg
 order: 0
 section: Store
 template: product
+default_thumbnail_image: images/mighty-rabbit.jpg
 ---
 
 # Fusce sed
