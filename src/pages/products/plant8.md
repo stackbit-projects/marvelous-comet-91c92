@@ -2,7 +2,7 @@
 id: ''
 price: '50.00'
 title: ''
-description: In cursus sagittis eros non congue.
+description: ''
 default_original_image: images/plant8-lg.jpg
 order: 8
 category: src/pages/category/summer.md
