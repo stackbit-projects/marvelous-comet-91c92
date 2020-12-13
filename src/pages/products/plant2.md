@@ -4,7 +4,7 @@ price: '10.00'
 title: AutoHingies
 description: Suspendisse efficitur eget erat sit amet efficitur.
 default_thumbnail_image: images/61pkFP4HSbL._SL1100_.jpg
-default_original_image: images/plant2-lg.jpg
+default_original_image: images/61pkFP4HSbL._SL1100_.jpg
 order: 2
 category: src/pages/category/cactuses.md
 section: Store
