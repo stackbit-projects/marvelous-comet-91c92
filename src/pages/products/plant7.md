@@ -12,7 +12,7 @@ order: 7
 category: src/pages/category/bigplants.md
 section: Store
 template: product
-default_thumbnail_image: images/nervous-kale.jpg
+default_thumbnail_image: images/81eIYMPkw-L._SL1500_.jpg
 ---
 
 # Sed consectetur
