@@ -1,11 +1,10 @@
 ---
-id: '8'
-price: '50.00'
-title: Fusce sed
-description: In cursus sagittis eros non congue.
-default_thumbnail_image: images/plant8.jpg
+id: ''
+price: ''
+title: ''
+description: ''
 default_original_image: images/plant8-lg.jpg
-order: 8
+order: 0
 category: src/pages/category/summer.md
 section: Store
 template: product
