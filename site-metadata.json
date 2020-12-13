@@ -64,5 +64,6 @@
             "type": "action"
         }
     ],
-    "title": "R"
+    "title": "R",
+    "hamburger_background_image": "images/bg4.jpg"
 }
