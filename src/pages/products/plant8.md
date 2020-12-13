@@ -1,5 +1,5 @@
 ---
-id: '8'
+id: ''
 price: '50.00'
 title: Fusce sed
 description: In cursus sagittis eros non congue.
