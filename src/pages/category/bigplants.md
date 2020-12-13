@@ -1,6 +1,6 @@
 ---
 title: ''
 order: 1
-section: Store
+section: Home
 template: category
 ---
