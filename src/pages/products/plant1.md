@@ -3,9 +3,8 @@ id: '1'
 price: '27.98'
 title: Grip-Rite (25 lbs./Pack)
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla suscipit velit
-  lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
-  tincidunt.
+  For attaching cement board to wood or metal studs. Use spade point for wood or
+  25-20 gauge metal studs, self-drill for 20-14 gauge metal studs.
 default_thumbnail_image: images/grip-rite-drywall-screws-114cdws1-64_400.jpg
 default_original_image: images/grip-rite-drywall-screws-158cdw25bk-64_400.jpg
 featured: true
