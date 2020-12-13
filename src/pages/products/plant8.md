@@ -4,7 +4,7 @@ price: ''
 title: ''
 description: ''
 default_original_image: images/plant8-lg.jpg
-order: 8
+order: 0
 category: src/pages/category/summer.md
 section: Store
 template: product
