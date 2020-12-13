@@ -1,7 +1,7 @@
 ---
 id: ''
 price: '39.99'
-title: Tim
+title: Timing Chain
 description: ''
 default_original_image: images/plant8-lg.jpg
 order: 0
