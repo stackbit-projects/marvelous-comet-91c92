@@ -1,6 +1,6 @@
 ---
 id: ''
-price: ''
+price: '39.99'
 title: ''
 description: ''
 default_original_image: images/plant8-lg.jpg
