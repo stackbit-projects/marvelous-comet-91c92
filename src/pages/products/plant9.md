@@ -2,7 +2,11 @@
 id: '9'
 price: '349.99'
 title: Timing Chain
-description: 'Nulla diam diam, maximus gravida efficitur eu, ultricies quis orci.'
+description: >-
+  A timing belt, timing chain, or cambelt is a part of an internal combustion
+  engine that synchronizes the rotation of the crankshaft and the camshaft so
+  that the engine's valves open and close at the proper times during each
+  cylinder's intake and exhaust strokes.
 default_thumbnail_image: images/timing chain.jpg
 default_original_image: images/mighty-spider.jpg
 featured: true
