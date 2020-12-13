@@ -2,7 +2,11 @@
 id: '6'
 price: '699.00'
 title: Crenk Shaft
-description: Cras molestie faucibus ipsum ut vulputate.
+description: >-
+  A crankshaft is a shaft driven by a crank mechanism, consisting of a series of
+  cranks and crankpins to which the connecting rods of an engine are attached.
+  It is a mechanical part able to perform a conversion between reciprocating
+  motion and rotational motion.
 default_thumbnail_image: images/main-qimg-5f969fb0985ce6c57847914dc37e6ca0.jpg
 default_original_image: images/main-qimg-5f969fb0985ce6c57847914dc37e6ca0.jpg
 order: 6
