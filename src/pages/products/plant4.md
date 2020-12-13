@@ -4,7 +4,7 @@ price: '24.99'
 title: Piston
 description: Maecenas pretium blandit ex id lobortis.
 default_thumbnail_image: images/v6enginepistons3dimage.j_215142.jpg
-default_original_image: images/plant4-lg.jpg
+default_original_image: images/hamburger.svg
 order: 4
 category: src/pages/category/cactuses.md
 section: Store
