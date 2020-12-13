@@ -12,7 +12,7 @@ order: 7
 category: src/pages/category/bigplants.md
 section: Store
 template: product
-default_thumbnail_image: images/melodic-aspen.jpg
+default_thumbnail_image: images/energetic-owl.jpg
 ---
 
 # Sed consectetur
