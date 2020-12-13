@@ -5,7 +5,6 @@ white_header: false
 sections:
   - type: header_section
     section_id: header_section
-    background_image: /images/leaf-light-grey.svg
     headline: Finance
     subtitle: '**Finance** is one of the most **main** aspects of a venture '
   - type: bulletpoints_section
