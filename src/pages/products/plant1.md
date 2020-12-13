@@ -7,7 +7,7 @@ description: >-
   lectus, vitae efficitur quam mollis eget. Integer porta at nisl eget
   tincidunt.
 default_thumbnail_image: images/grip-rite-drywall-screws-114cdws1-64_400.jpg
-default_original_image: images/plant1-lg.jpg
+default_original_image: images/grip-rite-drywall-screws-158cdw25bk-64_400.jpg
 featured: true
 order: 1
 category: src/pages/category/bigplants.md
